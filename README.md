@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 Currently learning C++/OpenGL.
 - 📫 How to reach me: 
   - 💬 Discord: ( ͡° ͜ʖ ͡°)#0001
-  - 📧 Email: doaltplusf4@gmail.com
+  - 📧 Email: LennyPhoenixC@gmail.com
