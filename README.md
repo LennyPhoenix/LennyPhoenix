@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🔭 Working on school work and making games.
 - 🌱 Currently learning C++/OpenGL.
 - 📫 How to reach me:
-  - 💬 Discord: ( ͡° ͜ʖ ͡°)#0001
+  - 💬 Discord: LennyPhoenix#0001
   - 📧 Email: LennyPhoenixC@gmail.com
