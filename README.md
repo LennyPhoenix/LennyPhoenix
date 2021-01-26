@@ -13,7 +13,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LennyPhoenix&theme=radical&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LennyPhoenix&bg_color=40,0F2027,203A43,2C5364&title_color=ffe&text_color=ede&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats" alt="LennyPhoenix's github stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LennyPhoenix&bg_color=40,0F2027,203A43,2C5364&title_color=ffe&text_color=fef&layout=compact" alt="Top Langs" />
+</a>
+
+<br/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LennyPhoenix&bg_color=40,0F2027,203A43,2C5364&title_color=ffe&text_color=fef&layout=default)](https://github.com/anuraghazra/github-readme-stats" alt="Wakatime Stats" />
+</a>
+
+<!--
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LennyPhoenix&bg_color=40,0F2027,203A43,2C5364&title_color=f8f&text_color=ede&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyPhoenix&bg_color=40,0F2027,203A43,2C5364&title_color=f8f&text_color=ede&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LennyPhoenix&bg_color=40,0F2027,203A43,2C5364&title_color=f8f&text_color=ede)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 - 🔭 Working on [my GDNative wrapper for the Discord Game SDK](https://github.com/LennyPhoenix/GodotDiscordSDK), written in C.
 - 🌱 Currently learning GDNative and the Discord Game SDK.
