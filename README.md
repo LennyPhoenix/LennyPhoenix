@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [![LennyPhoenix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LennyPhoenix&bg_color=40,0F2027,203A43,2C5364&title_color=ffe&text_color=ede&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LennyPhoenix&bg_color=40,0F2027,203A43,2C5364&title_color=ffe&text_color=bab&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LennyPhoenix&bg_color=40,0F2027,203A43,2C5364&title_color=ffe&text_color=bab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyPhoenix&bg_color=40,0F2027,203A43,2C5364&title_color=ffe&text_color=fef&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
