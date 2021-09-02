@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyPhoenix&bg_color=40,292E49,536976&title_color=ffe&text_color=fee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 Working on [my GDNative wrapper for the Discord Game SDK](https://github.com/LennyPhoenix/GodotDiscordSDK), written in C.
-- 🌱 Currently learning GDNative and the Discord Game SDK.
+- 🌱 Currently learning the Rust programming language.
 - 📫 How to reach me:
   - 💬 Discord: LennyPhoenix#0001
   - 📧 Email: LennyPhoenixC@gmail.com
