@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 🌱 Currently learning the Rust programming language.
 - 📫 How to reach me:
   - 💬 Discord: LilyPhoenix#0001
-  - 📧 Email: LennyPhoenixC@gmail.com
+  - 📧 Email: LilyPhoenixC@gmail.com
