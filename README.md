@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 🔭 Working on [bootstrapinator](https://github.com/LennyPhoenix/bsinator).
 - 🌱 Currently learning the Rust programming language.
 - 📫 How to reach me:
-  - 💬 Discord: LilyPhoenix#0001
-  - 📧 Email: LilyPhoenixC@gmail.com
+  - 💬 Discord: LennyPhoenix#0001
+  - 📧 Email: LennyPhoenixC@gmail.com
