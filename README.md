@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyPhoenix&theme=dracula&exclude_repo=The-Collection&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 Working on [bootstrapinator](https://github.com/LennyPhoenix/bsinator).
-- 🌱 Currently learning the Rust programming language.
-- 📫 How to reach me:
-  - 💬 Discord: LennyPhoenix#0001
-  - 📧 Email: LennyPhoenixC@gmail.com
+## 📫 How to reach me:
+
+- 💬 Discord: LennyPhoenix#0001
+- 📧 Email: LennyPhoenixC@gmail.com
