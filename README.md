@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me:
 
-- 💬 Discord: LennyPhoenix#0001
+- 💬 Discord: LennyPhoenix#6342
 - 📧 Email: LennyPhoenixC@gmail.com
