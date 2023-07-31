@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyPhoenix&theme=dracula&exclude_repo=The-Collection&layout=donut)
 
-## 📫 How to reach me:
+## 📧 LennyPhoenixC@gmail.com
 
-- 💬 Discord: LennyPhoenix#6342
-- 📧 Email: LennyPhoenixC@gmail.com
+(P.S. I'm open to hire, shoot me an email!)
