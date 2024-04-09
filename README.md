@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![LennyPhoenix' GitHub Stats](https://github-readme-stats.vercel.app/api?username=LennyPhoenix&theme=dracula&include_all_commits=true&count_private=true&show_icons=true&custom_title=Lenny%27s%20GitHub%20Stats)
-
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LennyPhoenix&theme=dracula&range=last_7_days&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyPhoenix&theme=dracula&exclude_repo=The-Collection&layout=donut)
